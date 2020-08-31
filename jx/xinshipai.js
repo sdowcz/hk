@@ -1,4 +1,3 @@
-
 function lw() {
 	var res = {};
 	var d = [];
@@ -35,3 +34,4 @@ function lw() {
 	}
 	res.data = d;
 	setHomeResult(res);
+}
